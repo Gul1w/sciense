@@ -814,7 +814,7 @@ html:not(.layout-menu-collapsed) .bg-menu-theme .menu-inner .menu-item .menu-lin
 
 section .hero-bg{
   border-radius: 5px;
-  background-image: url(/assets/img/backgrounds/hero.jpg);
+  background-image: url(/sciense/assets/img/backgrounds/hero.jpg);
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;

@@ -71,7 +71,7 @@ body {
   font-size: var(--bs-body-font-size);
   font-weight: var(--bs-body-font-weight);
   line-height: var(--bs-body-line-height);
-  color: var(--bs-body-color);
+  color: #5E6D55;
   text-align: var(--bs-body-text-align);
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
@@ -2184,7 +2184,7 @@ progress {
   font-size: 0.9375rem;
   font-weight: 400;
   line-height: 1.53;
-  color: #697a8d;
+  color: #BECCBE;
   background-color: #fff;
   background-clip: padding-box;
   border: 1px solid #d9dee3;
@@ -2210,7 +2210,7 @@ progress {
   background-color: #fff;
   border-color: rgba(249, 249, 255, 0.54);
   outline: 0;
-  box-shadow: 0 0 0.25rem 0.05rem rgba(105, 108, 255, 0.1);
+  box-shadow:#BECCBE;
 }
 .form-control::-webkit-date-and-time-value {
   height: 1.53em;
@@ -6079,9 +6079,6 @@ a.invert-bg-dark:hover, a.invert-bg-dark:focus {
   padding-bottom: 1.625rem !important;
 }
 
-.container-m-ny:not([class^=mt-]):not([class*=" mt-"]) {
-  margin-top: -1.625rem !important;
-}
 .container-m-ny:not([class^=mb-]):not([class*=" mb-"]) {
   margin-bottom: -1.625rem !important;
 }

@@ -218,6 +218,8 @@ button.list-group-item-primary.active {
   background-color: #108a00;
   border-color: #108a00;
   border-radius: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 .btn-primary:hover {
   color: #fff;
@@ -311,7 +313,7 @@ button.list-group-item-primary.active {
 
 .form-control:focus,
 .form-select:focus {
-  border-color: #696cff;
+  border-color: #BECCBE;
 }
 
 .input-group:focus-within .form-control,
@@ -345,7 +347,7 @@ button.list-group-item-primary.active {
 }
 
 .form-control:focus ~ .form-label {
-  border-color: #696cff;
+  border-color: #BECCBE; 
 }
 .form-control:focus ~ .form-label::after {
   border-color: inherit;
